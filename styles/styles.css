@@ -1,0 +1,21 @@
+html{
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h2 {
+	text-align: center;
+}
+
+body{
+	margin: 0 auto;
+}
+
+.center {
+	margin: auto;
+	width: 15%;
+}
+p{
+	text-align: center;
+}
