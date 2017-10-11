@@ -1,0 +1,1 @@
+This a web-app that teaches how to learn English based on Odin Project's methodology for teaching Code 
